@@ -1,0 +1,10 @@
+name: sre
+channels:
+  - defaults
+dependencies:
+  - cartopy=0.24.1
+  - dask=2025.2.0
+  - matplotlib
+  - netcdf4
+  - xarray=2025.4.0
+  - ipykernel
